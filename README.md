@@ -32,10 +32,10 @@
 
 
 ### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=dio-lab-open-source&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/dio-lab-open-source)
+[![Lista de Compras](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=lista_de_compras&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/lista_de_compras)
 [![Enviar Mensagens WhatsApp co Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=friendly-memory&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/friendly-memory)
 [![Estudos Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=python-guanabara&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/python-guanabara)
-[![Projeto Site da Abs Automação](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=supreme-adventure&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/supreme-adventure)
+[![Gera CPF com Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=geracpfpython&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/geracpfpython)
 
 ---
 
