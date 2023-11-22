@@ -2,8 +2,6 @@
 
 ### Eu  me sinto muito feliz em ter você aqui! 
 
-### Eu tenho 40 anos, sou de Igarassu - Pernambuco - Brasil. Venho surfando na tecnologia desde 1990, curto familia, ciclismo e uma boa capoeira angola. Quero com este desafio não apenas me superar, mas aumentar minha rede contatos e puder ajudar as pessoas que buscam atingir seus objetivos neste Bootcamp.
-
 ### Apaixonado pela Família, Capoeira Angola e Tecnologia. Resiliente, comprometido e paciente!
 
 ### Sou focado em resultados e sempre de maneira simples e objetiva, utilizo os conhecimentos adquiridos ao longo da minha jornada no planeta Terra, para atender com a máxima excelência clientes, amigos e desconhecidos que precisarem de ajuda. 
@@ -22,8 +20,6 @@
 ### Iniciando os Estudos em
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atnzpe&layout=compact&bg_color=000&border_color=fff703&title_color=fff703&text_color=FFF)
 
 
