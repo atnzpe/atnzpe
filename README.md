@@ -13,6 +13,7 @@
 
 
 #### Habilidades
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
@@ -20,20 +21,16 @@
 ### Iniciando os Estudos em
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atnzpe&layout=compact&bg_color=000&border_color=fff703&title_color=fff703&text_color=FFF)
 
-
-### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atnzpe&layout=compact&bg_color=000&border_color=fff703&title_color=fff703&text_color=FFF)
 
+### Meus Principais Repositórios
 
-### Meus Principais Desafios de Projeto DIO
-[![Lista de Compras](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=lista_de_compras&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/lista_de_compras)
-
+[![Depositar, Sacar, Transfereir e Gerar Extrato Bancario com Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=bank_system_python&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/bank_system_python/)
+[![Lista de Compras em Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=lista_de_compras&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/lista_de_compras)
 [![Estudos Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=python-guanabara&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/python-guanabara)
-
-[![Depositar, Sacar e Gerar Extrato Bancario com Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=bank_system_python&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/bank_system_python/)
-
 [![Enviar Mensagens WhatsApp co Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=friendly-memory&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/friendly-memory)
 ---
 
