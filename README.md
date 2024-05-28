@@ -28,9 +28,12 @@
 
 ### Meus Principais Repositórios
 
+[![Ebook - Da Cozinha para o Código ](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=lista_de_compras&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)]([https://github.com/atnzpe/lista_de_compras](https://github.com/atnzpe/ebook-da-cozinha-para-o-codigo))
+
 [![Depositar, Sacar, Transfereir e Gerar Extrato Bancario com Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=bank_system_python&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/bank_system_python/)
-[![Lista de Compras em Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=lista_de_compras&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/lista_de_compras)
-[![Estudos Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=python-guanabara&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/python-guanabara)
+
+[![Lista de Compras em Python e Enviar Por E-mail](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=lista_de_compras&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/lista_de_compras)
+
 [![Enviar Mensagens WhatsApp co Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=friendly-memory&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/friendly-memory)
 ---
 
