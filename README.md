@@ -28,11 +28,13 @@
 
 ### Meus Principais Repositórios
 
-[![Ebook - Da Cozinha para o Código ](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=ebook-da-cozinha-para-o-codigo&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/ebook-da-cozinha-para-o-codigo)
-
-[![Depositar, Sacar, Transfereir e Gerar Extrato Bancario com Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=bank_system_python&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/bank_system_python/)
+[![Ebook - Da Cozinha para o Código ](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=ebook-da-cozinha-para-o-codigo&bg_color=B21F1F&border_color=F6C81D&show_icons=true&icon_color=296330&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/ebook-da-cozinha-para-o-codigo)
 
 [![Lista de Compras em Python e Enviar Por E-mail](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=lista_de_compras&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/lista_de_compras)
+
+[![App Básico para Oficinas Mecânicas com Geração de Ordem de Serviço e Geração de Link de WhatsApp para envio da OS](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=lista_de_compras&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/bug-free-giggle)
+
+[![Depositar, Sacar, Transfereir e Gerar Extrato Bancario com Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=bank_system_python&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/bank_system_python/)
 
 [![Enviar Mensagens WhatsApp co Python](https://github-readme-stats.vercel.app/api/pin/?username=atnzpe&repo=friendly-memory&bg_color=000&border_color=fff703&show_icons=true&icon_color=30A3DC&title_color=fff703&text_color=FFF)](https://github.com/atnzpe/friendly-memory)
 ---
