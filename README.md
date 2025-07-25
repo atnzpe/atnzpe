@@ -2,7 +2,7 @@
 
 ### Eu  me sinto muito feliz em ter você aqui! 
 
-### Apaixonado pela Família, Capoeira Angola e Tecnologia. Resiliente, comprometido e paciente!
+### Apaixonado pela Família e Tecnologia. Resiliente, comprometido e paciente!
 
 ### Sou focado em resultados e sempre de maneira simples e objetiva, utilizo os conhecimentos adquiridos ao longo da minha jornada no planeta Terra, para atender com a máxima excelência clientes, amigos e desconhecidos que precisarem de ajuda. 
 
