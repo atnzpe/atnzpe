@@ -89,12 +89,16 @@
 ![Flet](https://img.shields.io/badge/Flet-0175C2?style=flat-square&logo=flutter&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
+**Desenvolvimento com IA**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
 **Entrega**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
-**Como trabalho:** segurança no banco (Row Level Security, sistemas multi-instituição), acessibilidade (WCAG), SEO e testes automatizados (Vitest, Pest, pytest).
+**Como trabalho:** desenvolvimento assistido por IA com Claude Code e Gemini, sempre com revisão e testes; segurança no banco (Row Level Security, sistemas multi-instituição), acessibilidade (WCAG), SEO e testes automatizados (Vitest, Pest, pytest).
 
 ---
 
