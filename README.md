@@ -1,10 +1,11 @@
 # Olá, eu sou o Gleyson Atanazio 👋🏿
 
-**Desenvolvedor Full Stack** em Igarassu–PE. Construo sistemas de gestão (SaaS) para artes marciais, educação e pequenos negócios, do banco de dados com regras de segurança até a tela que o aluno usa no celular.
+**Desenvolvedor Full Stack Júnior** em Igarassu–PE, no 5º período de Engenharia da Computação. Construo sistemas de gestão (SaaS) para artes marciais, educação e pequenos negócios, do banco de dados com regras de segurança até a tela que o aluno usa no celular.
 
 > Fazer as coisas acontecerem da forma mais simples e objetiva.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleysonatanazio/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atnzpe.github.io/my_portifolio/)
 [![E-mail](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:gleysonasilva@gmail.com)
 
 ---
