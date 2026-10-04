@@ -99,7 +99,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
-**Como trabalho:** desenvolvimento assistido por IA com Claude Code e Gemini, sempre com revisão e testes; segurança no banco (Row Level Security, sistemas multi-instituição), acessibilidade (WCAG), SEO e testes automatizados (Vitest, Pest, pytest).
+**Como trabalho:** pair programming com IA (Claude Code e Gemini), em que eu crio a ideia, entendo a necessidade do usuário, defino os requisitos, reviso e testo o resultado; segurança no banco (Row Level Security, sistemas multi-instituição), acessibilidade (WCAG), SEO e testes automatizados (Vitest, Pest, pytest).
 
 ---
 
