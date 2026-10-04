@@ -5,7 +5,7 @@
 > Fazer as coisas acontecerem da forma mais simples e objetiva.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleysonatanazio/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atnzpe.github.io/my_portifolio/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atnzpe.github.io/)
 [![E-mail](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:gleysonasilva@gmail.com)
 
 ---
