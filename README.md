@@ -48,10 +48,10 @@
 
 | Instituição | O que faço | Stack | Site |
 |---|---|---|---|
-| **CBSA** · Confederação Brasileira de Sambo | Refatoração do portal (SEO, acessibilidade, mobile first) e painel administrativo de notícias e cursos | PHP 8 · MySQL · GitHub Actions | [sambo.sport](https://sambo.sport) |
+| **CBSA** · Confederação Brasileira de Sambo | Refatoração do portal (SEO, acessibilidade, mobile first) e painel administrativo de notícias e cursos | PHP 8 · MySQL · GitHub Actions | [sambocbsa.com.br](https://www.sambocbsa.com.br/) |
 | **IBTO** · Instituto Brasileiro de Treinamento Operacional | Site institucional e plataforma de cursos online (cursos, matrículas, certificados com validação pública e área do filiado), em desenvolvimento | React · TypeScript · Laravel 13 · MySQL | [ib-to.org](https://ib-to.org) |
 | **Takimura Fight** | Landing page integrada ao Dojo Manager | React · TypeScript · Vite | [takimurafight.vercel.app](https://takimurafight.vercel.app/) |
-| **COBRAM** | Apoio técnico e QA do site | — | — |
+| **COBRAM** | Apoio técnico e QA do site | — | [cobram.org](https://cobram.org/) |
 
 ### Código aberto
 
