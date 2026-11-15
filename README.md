@@ -123,7 +123,7 @@ Para que cada projeto serve, onde estamos e para onde vamos. Os privados aparece
 |---|---|---|---|
 | [quiz_sfpc](https://github.com/atnzpe/quiz_sfpc) | Simulado para a certificação Scrum Foundation (SFPC) | Funciona no computador | APK pelo GitHub Actions e teste no celular e na TV |
 | [app-receitas](https://github.com/atnzpe/app-receitas) | Guia de receitas sem internet, com login, categorias e favoritos | Funciona no computador (MVVM) | APK e teste no celular |
-| [dose-certa](https://github.com/atnzpe/dose-certa) | Estoque de bebidas para bares: doses, contagem, cardápio e relatórios | Funciona no computador, sem internet | Tirar o banco de exemplo do repositório e gerar o APK |
+| [dose-certa](https://github.com/atnzpe/dose-certa) | Estoque de bebidas para bares e adegas: doses pelo peso da garrafa, venda e relatório do dia | Funciona no computador; regra da balança documentada com casos de teste | Tela da balança e APK; a mesma regra vira um módulo do SoFi OS |
 
 </details>
 
@@ -176,7 +176,7 @@ Mais 13 repositórios privados com exercícios de cursos (técnico, lógica de p
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
-**Como trabalho:** pair programming com IA (Claude Code e Gemini), em que eu crio a ideia, entendo a necessidade do usuário, defino os requisitos, reviso e testo o resultado; segurança no banco (Row Level Security, sistemas multi-instituição), acessibilidade (WCAG), SEO e testes automatizados (Vitest, Pest, pytest).
+**Como trabalho:** Scrum (backlog nas issues, um painel por projeto com os testes de cada pessoa, Definição de Pronto e página de andamento para cada cliente, com uma PO e QA testando antes do cliente); pair programming com IA (Claude Code e Gemini), em que eu crio a ideia, entendo a necessidade do usuário, defino os requisitos, reviso e testo o resultado; segurança no banco (Row Level Security, sistemas multi-instituição), acessibilidade (WCAG), SEO e testes automatizados (Vitest, Pest, pytest).
 
 ---
 
