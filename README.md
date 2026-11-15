@@ -16,8 +16,8 @@
 
 | Projeto | O que é | Stack | Status |
 |---|---|---|---|
-| 🥋 **Dojo Manager** | SaaS para academias, federações e confederações de artes marciais: alunos, chamada por PIN, financeiro, cursos, campeonatos e placar. Cada instituição só enxerga os próprios dados. | React 19 · TypeScript · Supabase (PostgreSQL + RLS) · Vercel | Em desenvolvimento · pilotos em preparação |
-| 💇🏿 **SoFi OS** | Agendamento de serviços e vendas online, com painel de pedidos (KDS), estoque e ficha técnica. | React · TypeScript · Supabase | Em desenvolvimento |
+| 🥋 **Dojo Manager** | SaaS para academias, federações e confederações de artes marciais: alunos, chamada por PIN, financeiro, cursos, campeonatos, placar e telão. Cada instituição só enxerga os próprios dados. | React 19 · TypeScript · Supabase (PostgreSQL + RLS) · Vercel | Em desenvolvimento · em teste com pessoas antes do primeiro piloto |
+| 💇🏿 **SoFi OS** | Plataforma para vários pequenos negócios, cada um isolado no banco: agendamento de serviços, estoque com catálogo público e, em seguida, pedidos de delivery. | React · TypeScript · Supabase | Em desenvolvimento · loja de celulares em teste |
 
 <details>
 <summary><b>🥋 Dojo Manager: o que o sistema já faz</b></summary>
@@ -28,8 +28,9 @@
 - **Financeiro:** painel de inadimplência e régua de cobrança com atalho para WhatsApp
 - **Cursos e eventos:** vitrine pública, inscrição com controle de vagas e lista de inscritos em CSV
 - **Campeonatos:** criação de eventos e categorias, inscrição com trava de adimplência, motor de regras de placar (Sambo, Jiu-Jitsu, Karatê, Pencak Silat) e visibilidade pública, interna ou por convite
-- **Também:** exames de faixa, ranking, certificados, videoteca, programa técnico e telão
-- **Qualidade:** React Hook Form + Zod, testes com Vitest e CI no GitHub Actions
+- **Tatame Digital:** placar ao vivo com telão público, apito, julgamento por vários árbitros e súmula gravada no banco
+- **Também:** exames de faixa, ranking, certificados, videoteca e programa técnico
+- **Qualidade:** React Hook Form + Zod, testes com Vitest, checagem de tipos e CI no GitHub Actions
 
 </details>
 
@@ -41,7 +42,7 @@
 - **Estoque:** insumos com código de barras
 - **Loja do cliente:** vitrine de serviços e produtos
 - **Painel KDS:** acompanhamento dos pedidos e atendimentos em quadro (kanban)
-- **Em andamento:** migração de Firebase para Supabase, motor de agendamento sem choque de horários e checkout com PIX
+- **Em andamento:** ambiente de teste de uma loja de celulares; depois, pedidos de delivery com tela da equipe e aviso ao cliente pelo WhatsApp
 
 </details>
 
@@ -49,8 +50,9 @@
 
 | Instituição | O que faço | Stack | Site |
 |---|---|---|---|
-| **CBSA** · Confederação Brasileira de Sambo | Refatoração do portal (SEO, acessibilidade, mobile first) e painel administrativo de notícias e cursos | PHP 8 · MySQL · GitHub Actions | [sambocbsa.com.br](https://www.sambocbsa.com.br/) |
-| **IBTO** · Instituto Brasileiro de Treinamento Operacional | Site institucional e plataforma de cursos online (cursos, matrículas, certificados com validação pública e área do filiado), em desenvolvimento | React · TypeScript · Laravel 13 · MySQL | [ib-to.org](https://ib-to.org) |
+| **CBSA** · Confederação Brasileira de Sambo | Portal em produção (SEO, acessibilidade, mobile first, vários idiomas) e novo painel administrativo em Laravel, em construção | PHP 8 · Laravel 13 · MySQL · GitHub Actions | [sambocbsa.com.br](https://www.sambocbsa.com.br/) |
+| **IBTO** · Instituto Brasileiro de Treinamento Operacional | Site institucional no ar e plataforma de cursos em homologação para o piloto (matrículas, provas, certificados com validação pública e área do filiado) | React · TypeScript · Laravel 13 · MySQL | [ib-to.org](https://ib-to.org) |
+| **Plataforma de cursos de drones** · instrutor de drones táticos | Plataforma em Laravel + React a partir da maquete do cliente: papéis no servidor, páginas públicas e painel de cursos, em demonstração | Laravel 13 · React · TypeScript · MySQL | — |
 | **Takimura Fight** | Landing page integrada ao Dojo Manager | React · TypeScript · Vite | [takimurafight.vercel.app](https://takimurafight.vercel.app/) |
 | **COBRAM** · Confederação Brasileira de Artes Marciais | Desenvolvedor Web: apoio técnico, presença digital e QA do site | — | [cobram.org](https://cobram.org/) |
 
@@ -64,6 +66,66 @@
 | [app-receitas](https://github.com/atnzpe/app-receitas) | App de receitas offline-first em arquitetura MVVM | Python · Flet · SQLite |
 | [app_oficina_mecanica](https://github.com/atnzpe/app_oficina_mecanica) | Ordens de serviço, clientes, veículos e peças para oficinas | Python · Flet |
 | [DojoManager-Comercial](https://github.com/atnzpe/DojoManager-Comercial) | Primeira versão do Dojo Manager, sem custo de servidor | Google Apps Script |
+
+---
+
+<!-- Mapa de todos os repositórios (situação de 14/11/2026). Regra: repositório privado aparece
+     sem link e sem o nome do cliente (LGPD e combinado com cada cliente). -->
+## 🗺️ Mapa de todos os repositórios
+
+Para que cada projeto serve, onde estamos e para onde vamos. Os privados aparecem **sem o nome do cliente**, de acordo com a LGPD e com o combinado com cada cliente. *Situação de 14/11/2026.*
+
+<details>
+<summary><b>Produtos próprios</b> · plataformas que eu crio e mantenho</summary>
+
+| Projeto | Serve para | Onde estamos | Próximo passo |
+|---|---|---|---|
+| 🥋 Dojo Manager 🔒 | Gestão de academias, federações e confederações de artes marciais | 35 entregas construídas, juntas numa versão de integração para o teste com pessoas | Homologação, contas de teste, abertura do código e primeiro piloto com uma equipe de lutas |
+| 💇🏿 SoFi OS 🔒 | Uma plataforma para vários pequenos negócios, cada um com os seus dados isolados | Ambiente de teste de uma loja no ar, esperando o teste com o cliente | Primeiro piloto e, depois, abrir o código |
+| 🛴 Módulo de oficina 🔒 | Diagnóstico guiado para oficinas de bicicleta, patinete e scooter elétrica | Começo: base de conhecimento sendo organizada; telas ainda não existem | Virar um módulo do SoFi OS, com agendamento e orçamento |
+| 📦 Contador de estoque 🔒 | App de celular para contar estoque pelo código de barras e exportar no formato do sistema da loja | Só o plano escrito | Construir depois do piloto da loja |
+
+</details>
+
+<details>
+<summary><b>Clientes e instituições</b> · trabalho para organizações reais</summary>
+
+| Projeto | Serve para | Onde estamos | Próximo passo |
+|---|---|---|---|
+| [IBTO · site](https://github.com/atnzpe/Instituto-Brasileiro-de-Treinamento-Operacional) | Site do instituto, com blog, eventos e Rede Nacional de instrutores | No ar, 53 tarefas concluídas | Seguir depois da reunião com a diretoria |
+| [IBTO · plataforma de cursos](https://github.com/atnzpe/ibto-plataforma) | Matrícula, provas, certificados com validação pública e área do filiado | Em homologação para o piloto | Piloto e publicação |
+| CBSA · portal e painel 🔒 | Portal da Confederação Brasileira de Sambo e novo painel em Laravel | Portal em produção; painel em construção | Continuar após a liberação do jurídico |
+| Plataforma de cursos de drones 🔒 | Cursos de um instrutor de drones táticos, a partir da maquete do cliente | Pronta para demonstração | Definir a hospedagem e publicar |
+| Landing page de uma equipe de lutas 🔒 | Página de apresentação ligada ao Dojo Manager | No ar | Receber os dados do Dojo Manager no piloto |
+| Clientes do SoFi OS (3 repositórios sem código) 🔒 | Guardam só o combinado com cada cliente: uma loja de celulares, um restaurante e um comércio com entregas | Loja com teste no ar; os outros em levantamento | Teste com a loja; depois, a venda no balcão do restaurante |
+
+</details>
+
+<details>
+<summary><b>Versões anteriores e protótipos</b> · onde aprendi o que hoje está nos produtos</summary>
+
+| Projeto | Serve para | Onde estamos | Próximo passo |
+|---|---|---|---|
+| [DojoManager-Comercial](https://github.com/atnzpe/DojoManager-Comercial) | 1ª versão do Dojo Manager, em Google Apps Script | Encerrada | Histórico |
+| Dojo Manager em Firebase e versão para uma confederação 🔒 | 2ª e 3ª tentativas do Dojo Manager | Encerradas | Histórico |
+| [placar-eletronico](https://github.com/atnzpe/placar-eletronico) | Placar para Sambo e outras artes marciais, em Python | Pronto; virou o placar ao vivo do Dojo Manager | Manter como código aberto |
+| [smart-manager-pro](https://github.com/atnzpe/smart-manager-pro) e [gestor-delivery](https://github.com/atnzpe/gestor-delivery) | Salões e delivery com painel de cozinha, em Apps Script | Encerrados; a lógica de pedidos foi para o SoFi OS | Referência |
+| [app_oficina_mecanica](https://github.com/atnzpe/app_oficina_mecanica) (+ versões privadas antigas) | Clientes, veículos, peças e ordem de serviço, em Python + Flet | Parado | As ideias vão para o módulo de oficina |
+| App para uma federação de artes marciais 🔒 | Materiais de treino e análise de movimento, em Python + Flet | Parado na versão 0.7 | As funções entram no Dojo Manager |
+| [krav_maga_analyzer](https://github.com/atnzpe/krav_maga_analyzer) | Compara o vídeo do aluno com o do mestre | Protótipo | Avaliar no Dojo Manager |
+
+</details>
+
+<details>
+<summary><b>Estudos e cursos</b> · o caminho de aprendizado</summary>
+
+[quiz_sfpc](https://github.com/atnzpe/quiz_sfpc) · [app-receitas](https://github.com/atnzpe/app-receitas) · [dose-certa](https://github.com/atnzpe/dose-certa) · [regressao-linear](https://github.com/atnzpe/regressao-linear) · [page-teste](https://github.com/atnzpe/page-teste) (validação de estoques) · [ia-com-python](https://github.com/atnzpe/ia-com-python) · [processar-imagem-py](https://github.com/atnzpe/processar-imagem-py) · [ocb](https://github.com/atnzpe/ocb) · [ape](https://github.com/atnzpe/ape) · [bank_system_python](https://github.com/atnzpe/bank_system_python) · [lista_de_compras](https://github.com/atnzpe/lista_de_compras) · [geracpfpython](https://github.com/atnzpe/geracpfpython) · [ebook-da-cozinha-para-o-codigo](https://github.com/atnzpe/ebook-da-cozinha-para-o-codigo) · [friendly-memory](https://github.com/atnzpe/friendly-memory) · [PythonExercicios](https://github.com/atnzpe/PythonExercicios) · [studious-adventure](https://github.com/atnzpe/studious-adventure) · [ursos_e_cobras](https://github.com/atnzpe/ursos_e_cobras) · [supreme-adventure](https://github.com/atnzpe/supreme-adventure) · [blog-dev-frontend](https://github.com/atnzpe/blog-dev-frontend) · [blog-dev-backend](https://github.com/atnzpe/blog-dev-backend) · [Bootcamp BairesDev ML](https://github.com/atnzpe/Bootcamp-BairesDev---Machine-Learning-Training) · [supreme-octo-train](https://github.com/atnzpe/supreme-octo-train)
+
+Mais 13 repositórios privados com exercícios de cursos (técnico, lógica de programação, Java, Git) e protótipos pessoais com IA e automação.
+
+</details>
+
+🔒 = repositório privado (sem link).
 
 ---
 
