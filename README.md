@@ -69,11 +69,11 @@
 
 ---
 
-<!-- Mapa de todos os repositórios (situação de 14/11/2026). Regra: repositório privado aparece
+<!-- Mapa de todos os repositórios (situação de 15/11/2026). Regra: repositório privado aparece
      sem link e sem o nome do cliente (LGPD e combinado com cada cliente). -->
 ## 🗺️ Mapa de todos os repositórios
 
-Para que cada projeto serve, onde estamos e para onde vamos. Os privados aparecem **sem o nome do cliente**, de acordo com a LGPD e com o combinado com cada cliente. *Situação de 14/11/2026.*
+Para que cada projeto serve, onde estamos e para onde vamos. Os privados aparecem **sem o nome do cliente**, de acordo com a LGPD e com o combinado com cada cliente. *Situação de 15/11/2026.*
 
 <details>
 <summary><b>Produtos próprios</b> · plataformas que eu crio e mantenho</summary>
@@ -82,7 +82,7 @@ Para que cada projeto serve, onde estamos e para onde vamos. Os privados aparece
 |---|---|---|---|
 | 🥋 Dojo Manager 🔒 | Gestão de academias, federações e confederações de artes marciais | 35 entregas construídas, juntas numa versão de integração para o teste com pessoas | Homologação, contas de teste, abertura do código e primeiro piloto com uma equipe de lutas |
 | 💇🏿 SoFi OS 🔒 | Uma plataforma para vários pequenos negócios, cada um com os seus dados isolados | Ambiente de teste de uma loja no ar, esperando o teste com o cliente | Primeiro piloto e, depois, abrir o código |
-| 🛴 Módulo de oficina 🔒 | Diagnóstico guiado para oficinas de bicicleta, patinete e scooter elétrica | Começo: base de conhecimento sendo organizada; telas ainda não existem | Virar um módulo do SoFi OS, com agendamento e orçamento |
+| 🛴 Módulo de oficina 🔒 | Diagnóstico guiado para oficinas de bicicleta, patinete e scooter elétrica | 205 fichas transcritas e protótipo da consulta, sem internet; piloto combinado com uma rede de lojas de bicicleta | Revisão das fichas pelo autor e módulo dentro do SoFi OS |
 | 📦 Contador de estoque 🔒 | App de celular para contar estoque pelo código de barras e exportar no formato do sistema da loja | Só o plano escrito | Construir depois do piloto da loja |
 
 </details>
@@ -97,7 +97,7 @@ Para que cada projeto serve, onde estamos e para onde vamos. Os privados aparece
 | CBSA · portal e painel 🔒 | Portal da Confederação Brasileira de Sambo e novo painel em Laravel | Portal em produção; painel em construção | Continuar após a liberação do jurídico |
 | Plataforma de cursos de drones 🔒 | Cursos de um instrutor de drones táticos, a partir da maquete do cliente | Pronta para demonstração | Definir a hospedagem e publicar |
 | Landing page de uma equipe de lutas 🔒 | Página de apresentação ligada ao Dojo Manager | No ar | Receber os dados do Dojo Manager no piloto |
-| Clientes do SoFi OS (3 repositórios sem código) 🔒 | Guardam só o combinado com cada cliente: uma loja de celulares, um restaurante e um comércio com entregas | Loja com teste no ar; os outros em levantamento | Teste com a loja; depois, a venda no balcão do restaurante |
+| Clientes do SoFi OS (4 repositórios sem código) 🔒 | Guardam só o combinado com cada cliente: uma loja de celulares, um restaurante, um comércio com entregas e uma rede de lojas de bicicleta | Loja com teste no ar; os outros em levantamento | Teste com a loja; depois, o restaurante e a primeira loja de bicicleta |
 
 </details>
 
@@ -108,7 +108,7 @@ Para que cada projeto serve, onde estamos e para onde vamos. Os privados aparece
 |---|---|---|---|
 | [DojoManager-Comercial](https://github.com/atnzpe/DojoManager-Comercial) | 1ª versão do Dojo Manager, em Google Apps Script | Encerrada | Histórico |
 | Dojo Manager em Firebase e versão para uma confederação 🔒 | 2ª e 3ª tentativas do Dojo Manager | Encerradas | Histórico |
-| [placar-eletronico](https://github.com/atnzpe/placar-eletronico) | Placar para Sambo e outras artes marciais, em Python | Pronto; virou o placar ao vivo do Dojo Manager | Manter como código aberto |
+| [placar-eletronico](https://github.com/atnzpe/placar-eletronico) | Placar para Sambo e outras artes marciais, em Python (+ versão privada com os sons do árbitro) | Pronto; virou o placar ao vivo do Dojo Manager | Manter como código aberto |
 | [smart-manager-pro](https://github.com/atnzpe/smart-manager-pro) e [gestor-delivery](https://github.com/atnzpe/gestor-delivery) | Salões e delivery com painel de cozinha, em Apps Script | Encerrados; a lógica de pedidos foi para o SoFi OS | Referência |
 | [app_oficina_mecanica](https://github.com/atnzpe/app_oficina_mecanica) (+ versões privadas antigas) | Clientes, veículos, peças e ordem de serviço, em Python + Flet | Parado | As ideias vão para o módulo de oficina |
 | App para uma federação de artes marciais 🔒 | Materiais de treino e análise de movimento, em Python + Flet | Parado na versão 0.7 | As funções entram no Dojo Manager |
@@ -117,9 +117,20 @@ Para que cada projeto serve, onde estamos e para onde vamos. Os privados aparece
 </details>
 
 <details>
+<summary><b>Apps Android</b> · Python + Flet virando APK para celular e TV</summary>
+
+| Projeto | Serve para | Onde estamos | Próximo passo |
+|---|---|---|---|
+| [quiz_sfpc](https://github.com/atnzpe/quiz_sfpc) | Simulado para a certificação Scrum Foundation (SFPC) | Funciona no computador | APK pelo GitHub Actions e teste no celular e na TV |
+| [app-receitas](https://github.com/atnzpe/app-receitas) | Guia de receitas sem internet, com login, categorias e favoritos | Funciona no computador (MVVM) | APK e teste no celular |
+| [dose-certa](https://github.com/atnzpe/dose-certa) | Estoque de bebidas para bares: doses, contagem, cardápio e relatórios | Funciona no computador, sem internet | Tirar o banco de exemplo do repositório e gerar o APK |
+
+</details>
+
+<details>
 <summary><b>Estudos e cursos</b> · o caminho de aprendizado</summary>
 
-[quiz_sfpc](https://github.com/atnzpe/quiz_sfpc) · [app-receitas](https://github.com/atnzpe/app-receitas) · [dose-certa](https://github.com/atnzpe/dose-certa) · [regressao-linear](https://github.com/atnzpe/regressao-linear) · [page-teste](https://github.com/atnzpe/page-teste) (validação de estoques) · [ia-com-python](https://github.com/atnzpe/ia-com-python) · [processar-imagem-py](https://github.com/atnzpe/processar-imagem-py) · [ocb](https://github.com/atnzpe/ocb) · [ape](https://github.com/atnzpe/ape) · [bank_system_python](https://github.com/atnzpe/bank_system_python) · [lista_de_compras](https://github.com/atnzpe/lista_de_compras) · [geracpfpython](https://github.com/atnzpe/geracpfpython) · [ebook-da-cozinha-para-o-codigo](https://github.com/atnzpe/ebook-da-cozinha-para-o-codigo) · [friendly-memory](https://github.com/atnzpe/friendly-memory) · [PythonExercicios](https://github.com/atnzpe/PythonExercicios) · [studious-adventure](https://github.com/atnzpe/studious-adventure) · [ursos_e_cobras](https://github.com/atnzpe/ursos_e_cobras) · [supreme-adventure](https://github.com/atnzpe/supreme-adventure) · [blog-dev-frontend](https://github.com/atnzpe/blog-dev-frontend) · [blog-dev-backend](https://github.com/atnzpe/blog-dev-backend) · [Bootcamp BairesDev ML](https://github.com/atnzpe/Bootcamp-BairesDev---Machine-Learning-Training) · [supreme-octo-train](https://github.com/atnzpe/supreme-octo-train)
+[regressao-linear](https://github.com/atnzpe/regressao-linear) · [page-teste](https://github.com/atnzpe/page-teste) (validação de estoques) · [ia-com-python](https://github.com/atnzpe/ia-com-python) · [processar-imagem-py](https://github.com/atnzpe/processar-imagem-py) · [ocb](https://github.com/atnzpe/ocb) · [ape](https://github.com/atnzpe/ape) · [bank_system_python](https://github.com/atnzpe/bank_system_python) · [lista_de_compras](https://github.com/atnzpe/lista_de_compras) · [geracpfpython](https://github.com/atnzpe/geracpfpython) · [ebook-da-cozinha-para-o-codigo](https://github.com/atnzpe/ebook-da-cozinha-para-o-codigo) · [friendly-memory](https://github.com/atnzpe/friendly-memory) · [PythonExercicios](https://github.com/atnzpe/PythonExercicios) · [studious-adventure](https://github.com/atnzpe/studious-adventure) · [ursos_e_cobras](https://github.com/atnzpe/ursos_e_cobras) · [supreme-adventure](https://github.com/atnzpe/supreme-adventure) · [blog-dev-frontend](https://github.com/atnzpe/blog-dev-frontend) · [blog-dev-backend](https://github.com/atnzpe/blog-dev-backend) · [Bootcamp BairesDev ML](https://github.com/atnzpe/Bootcamp-BairesDev---Machine-Learning-Training) · [supreme-octo-train](https://github.com/atnzpe/supreme-octo-train)
 
 Mais 13 repositórios privados com exercícios de cursos (técnico, lógica de programação, Java, Git) e protótipos pessoais com IA e automação.
 
